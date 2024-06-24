@@ -9,7 +9,7 @@ enter the blockchain.
 - the central bank will then mint multiple nfts, each with an equivalent value to the taxes paid (ex: one NFT for city taxes, one for state taxes, one for fed taxes)
 - the NFTs are then awarded to govt. services in need of funding (ex: CSU, UC, bart receive batches of nfts, coast guard and army receive more, etc)
 - NFTs are then fractionalized and distributed to individual employees as payment
-- employees may then sell their nfts back to the federal reserve in exchange for money, or visit participating businesses to use fractions of their nfts to pay for goods (vegroceries, vcdonalds, vurgerking etc)
+- employees may then sell their nfts back to the federal reserve in exchange for money, or visit participating businesses to use fractions of their nfts to pay for goods (ethgroceries, ethdonalds, ethgerking etc)
 - businesses may sell their nfts to federal reserve for legal tender
 - the nfts are destroyed following return to the fed. reserve to avoid infinite money printing
 
