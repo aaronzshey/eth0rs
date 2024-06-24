@@ -1,7 +1,7 @@
-# us-vrs
+# eth0rs
 do you like paying taxes while watching your city's infrastructure deteriorates?  do you love watching politicians boast their exorbitant net worths while you pay 40% of your income to uncle sam?  isn't it wonderful to see civil servants underpaid while the latest and greatest embezzler makes off with their 10th supercar? 
 
-### vechain revenue service is the solution
+### ethereum revenue service is the solution
 while each physical US dollar comes with a unique serial number, the digital USD does not.  unless you pay your taxes in cash, your payment could go straight into the mayor's bank account and you would never know.  
 
 enter the blockchain.  
